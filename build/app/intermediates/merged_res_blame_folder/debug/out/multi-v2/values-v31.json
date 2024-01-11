@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Kuliahku Semester 5\\Pemrograman Mobile\\flutter_rick_and_morty\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v31\\values-v31.xml",
+            "map": [
+                {
+                    "source": "D:\\Kuliahku Semester 5\\Pemrograman Mobile\\flutter_rick_and_morty\\android\\app\\src\\main\\res\\values-v31\\styles.xml",
+                    "from": {
+                        "startLines": "3,13",
+                        "startColumns": "4,4",
+                        "startOffsets": "176,755",
+                        "endLines": "6,15",
+                        "endColumns": "12,12",
+                        "endOffsets": "397,921"
+                    },
+                    "to": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,278",
+                        "endLines": "5,8",
+                        "endColumns": "12,12",
+                        "endOffsets": "273,442"
+                    }
+                }
+            ]
+        }
+    ]
+}
